@@ -10,8 +10,8 @@ public class testclass23 {
         result = getSum(5,10,56);
         System.out.println(result);
 
-        sayHello("ass");
-        sayHello("vasya", "venya");
+        sayHello("Viktor");
+        sayHello("Vasya", "Ivan");
         sayHello();
 
         int[] array = {1, 22, 34, 123, 314};
