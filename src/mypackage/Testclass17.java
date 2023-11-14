@@ -1,6 +1,6 @@
 package mypackage;
 // Java - Циклы For, ForEach, While, Do While
-public class testclass17 {
+public class Testclass17 {
 
     public static void main(String[] args) {
         System.out.println("Start program");

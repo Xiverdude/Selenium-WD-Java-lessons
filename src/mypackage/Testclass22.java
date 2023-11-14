@@ -2,7 +2,7 @@ package mypackage;
 //СТРУКТУРА МЕТОДОВ
 
 
-public class testclass22 {
+public class Testclass22 {
     public static void main(String[] args) {
 
         int a = 13;

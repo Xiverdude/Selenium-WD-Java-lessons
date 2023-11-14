@@ -1,6 +1,6 @@
 package mypackage;
 
-public class testclass13 {
+public class Testclass13 {
     public static void main(String[] args) {
         //Массивы
         String[] names;

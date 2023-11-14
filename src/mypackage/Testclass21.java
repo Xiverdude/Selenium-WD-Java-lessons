@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-public class testclass21 {
+public class Testclass21 {
     public static void main(String[] args) {
 
         Map<Integer, String> map = new HashMap<>(); //создаем мапу ( ключ, значение)

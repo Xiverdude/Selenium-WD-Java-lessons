@@ -1,8 +1,6 @@
 package mypackage;
 
-import java.util.SortedMap;
-
-public class testclass15 {
+public class Testclass15 {
     public static void main(String[] args) {
 
         String a = "Hello world!"; //класс
