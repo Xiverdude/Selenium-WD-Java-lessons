@@ -2,7 +2,15 @@ package mypackage;
 
 //ПЕРЕМЕННЫЕ
 //КОНСТРУКТОР КЛАССА
+//МОДИФИКАТОРЫ final & static
+
 public class TestClass25Cars {
+
+    // final static int var = 10;//мы не сможем дать новое значение переменной с модфикатором final - финальный метод, в единственном экземпляре/ менять нельзя
+    static int var = 10;//это модификатор, который позволяет быть переменным и методам в единственном экземпляре и вызыватся через class и их изменения прозводят изменения во всех объектах данного класса
+    static void method() {                      //Создаем метод
+        System.out.println("Static method");
+    }
 
     public TestClass25Cars(){
         System.out.println("New car created!");

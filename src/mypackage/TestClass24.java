@@ -1,7 +1,7 @@
 package mypackage;
 
 // ИСКЛЮЧЕНИЯ Exceptions
-public class Testclass24 {
+public class TestClass24 {
     public static void main(String[] args) {
 
 

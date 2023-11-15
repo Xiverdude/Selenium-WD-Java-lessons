@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class Testclass18 {
+public class TestClass18 {
     public static void main(String[] args) {
 
         int[] array = new int[3];

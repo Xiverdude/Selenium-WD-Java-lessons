@@ -1,6 +1,6 @@
 package mypackage;
 
-public class Testclass15 {
+public class TestClass15 {
     public static void main(String[] args) {
 
         String a = "Hello world!"; //класс

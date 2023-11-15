@@ -1,6 +1,6 @@
 package mypackage;
 
-public class Testclass12 {
+public class TestClass12 {
     public static void main(String[] args) {
         byte bt = 5;                // -128 - 127       1 байт
         short st = -100;            // -32768 - 32677   2 байт

@@ -10,7 +10,7 @@ import java.util.Set;
 
 
 
-public class Testclass20 {
+public class TestClass20 {
     public static void main(String[] args) {
 
         Set<Integer> set = new HashSet<>(); // создаем Хэшсет
