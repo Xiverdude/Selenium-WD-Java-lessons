@@ -1,8 +1,25 @@
 package mypackage;
 
 //ПЕРЕМЕННЫЕ
-
+//КОНСТРУКТОР КЛАССА
 public class TestClass25Cars {
+
+    public TestClass25Cars(){
+        System.out.println("New car created!");
+    }
+
+    public TestClass25Cars(String color){
+        this.color = color; //this.color данная переменная = примет значание этой переменной color
+    }
+
+    public TestClass25Cars(String color, int height, int weight, int lenght){
+        this.color = color; //this.color данная переменная = примет значание этой переменной color
+        this.height = height;
+        this.weight = weight;
+        this.lenght = lenght;
+
+    }
+
     int height;
     int wight;
     int lenght;

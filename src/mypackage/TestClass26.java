@@ -1,7 +1,8 @@
 package mypackage;
 
-//ПЕРЕМЕННЫЕ
-public class Testclass25 {
+//КОНСТРУКТОР КЛАССА
+
+public class TestClass26 {
 
     public static void main(String[] args) {
 
@@ -26,6 +27,13 @@ public class Testclass25 {
 
         car2.drive(100);
         car3.acceleration(150);
+
+        TestClass25Cars car4 = new TestClass25Cars("black");
+
+        System.out.println("Car color is: " + car4.color);//выведем значение перенменной цвета, которая находится в объекте car4
+
+        TestClass25Cars car5 = new TestClass25Cars("red", 2100, 2000, 5100);
+        System.out.println(car5.color + " " + car5.height + " " + car5.weight + " " + car5.lenght);//выводим на экран все наши значения переменных
 
 
 
